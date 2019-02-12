@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 5.1.30/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/ant-antlr-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/cglib-full-2.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/dom4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/jta.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="E:/Libraries/commons/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
